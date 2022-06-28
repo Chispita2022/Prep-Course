@@ -32,8 +32,9 @@ function devolverString(str) {
 }
 
 function suma(x, y) {
- var suma =a + b;
- return suma;
+  x=1 e y=2 son números
+  Suma x e y juntos y devuelve el valor de 3
+  (e+y)=3
   
 }
 
